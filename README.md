@@ -1,4 +1,5 @@
 # devops-first-project-68319010002
+Edited on GitHub website 
 ขั้นตอนการใช้งาน
 1. เปิดโปรแกรมเว็บเบราว์เซอร์ เช่น Google Chrome หรือ Microsoft Edge
 2. คัดลอก URL ของเว็บไซต์ที่ต้องการเข้าใช้งาน
